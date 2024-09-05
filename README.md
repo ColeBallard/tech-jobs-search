@@ -10,4 +10,4 @@ Project which aims to let the user search for tech job listings from several of 
 
 If you have an idea or want to report a bug, please create an issue.
 
-## **[Contact](https://coleb.io/contact)**
+## **[Contact](https://github.com/ColeBallard/coleballard.github.io/blob/main/README.md)**
